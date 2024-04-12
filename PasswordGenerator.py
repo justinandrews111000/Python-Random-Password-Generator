@@ -121,7 +121,6 @@ def generate_pass():
     for i in hash_arr:
         temp_pass = float(i) * (user_rand.get() * .1) % 10
         password.append(int(temp_pass))
-        print(password)
 
     # If Letter checkbox is checked: Add letters.
     if letter_bool.get():
@@ -299,7 +298,6 @@ def rand_button_click(button):
     current_time = datetime.now()
     current_microsec = current_time.microsecond
     rand_button_times.append(current_microsec // 11000)
-    print(rand_button_times)
 
     # Checks if all buttons are disabled and then closes the window,
     # and brings focus back to the main window.

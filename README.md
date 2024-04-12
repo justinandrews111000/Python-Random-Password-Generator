@@ -8,4 +8,4 @@ cd "directory file saved to"
 python PasswordGenerator.py 
 
 Packaged to .exe using Auto Py To Exe
-
+I created the .ICO using InkScape

@@ -7,3 +7,5 @@ To run it you can download the .exe file, load it into an IDE with a python envi
 cd "directory file saved to"
 python PasswordGenerator.py 
 
+Packaged to .exe using Auto Py To Exe
+

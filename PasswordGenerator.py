@@ -13,8 +13,6 @@
 #   Comment code and "de-gremlin" it.
 #   Have upper/lowercase letters in separate lists to
 #    -ensure there is a fair distribution of both
-#   Have user_rand be updated to the random seed the user generates
-#   Have main window buttons re-enable after the user generates the random seed
 #   refactor and modularize code
 # Potential Features:
 #   Password strength checker
